@@ -1,1 +1,3 @@
-# datacamp-explo-data-sql
+# Exploratory Data Analysis in SQL
+
+I have access to a database. Now what's next? Building on my existing skills joining tables, using basic functions, grouping data, and using subqueries, the next step in my SQL journey was learning how to explore a database and the data in it. Using data from Stack Overflow, Fortune 500 companies, and 311 help requests from Evanston, IL, I got familiar with numeric, character, and date/time data types. I used functions to aggregate, summarize, and analyze data without leaving the database. Errors and inconsistencies in the data didn't stop you! I learned common problems to look for and strategies to clean up messy data. At the end of this course, I am ready to start exploring my own PostgreSQL databases and analyzing the data in them.
