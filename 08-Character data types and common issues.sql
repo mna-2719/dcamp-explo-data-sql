@@ -26,5 +26,3 @@ SELECT street, COUNT(*)
  GROUP BY street
  ORDER BY COUNT(*) DESC
  LIMIT 5;
-
-
