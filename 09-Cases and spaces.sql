@@ -44,5 +44,3 @@ SELECT category, COUNT(*)
  --- order by most frequent values
  ORDER BY COUNT DESC
  LIMIT 10;
-
-
