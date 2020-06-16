@@ -50,5 +50,3 @@ SELECT DATE_TRUNC('month', day) AS month,
          GROUP BY day) AS daily_count
  GROUP BY month
  ORDER BY month;
-
-
