@@ -152,3 +152,4 @@ SELECT priority,
        ON evanston311.id=indicators.id
  -- What are you grouping by?
  GROUP BY priority;
+ 
