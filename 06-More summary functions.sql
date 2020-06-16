@@ -18,5 +18,3 @@ SELECT sector,
  GROUP BY sector
  -- Order results by a value of interest
  ORDER BY mean;
-
-
