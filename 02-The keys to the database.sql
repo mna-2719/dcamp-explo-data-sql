@@ -50,5 +50,3 @@ SELECT company_original.name, title, rank
              fortune500.ticker
  -- For clarity, order by rank
  ORDER BY rank; 
-
-
