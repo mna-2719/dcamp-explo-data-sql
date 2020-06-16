@@ -50,3 +50,4 @@ SELECT STDDEV(maxval),
           FROM stackoverflow
          -- Compute max by...
          GROUP BY tag) AS max_results; -- alias for subquery
+	
