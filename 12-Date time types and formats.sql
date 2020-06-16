@@ -44,3 +44,4 @@ SELECT category,
  GROUP BY category
 -- Order the results
  ORDER BY completion_time DESC;
+ 
