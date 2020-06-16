@@ -92,3 +92,4 @@ SELECT DATE_TRUNC('month', date) AS month,
        ON all_days.date=daily_count.day
  GROUP BY month
  ORDER BY month; 
+		    
