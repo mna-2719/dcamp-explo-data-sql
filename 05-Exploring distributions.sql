@@ -59,5 +59,3 @@ SELECT lower, upper, count(question_count)
  GROUP BY lower, upper
  -- Order by lower to put bins in order
  ORDER BY lower;
-
-
