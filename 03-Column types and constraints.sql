@@ -40,3 +40,4 @@ SELECT count(*)
   FROM fortune500
  -- Where...
  WHERE revenues_change > 0;
+ 
