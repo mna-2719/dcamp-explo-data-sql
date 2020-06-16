@@ -80,3 +80,4 @@ SELECT created.month,
        INNER JOIN completed
        ON created.month=completed.month
  ORDER BY created.month;
+                   
