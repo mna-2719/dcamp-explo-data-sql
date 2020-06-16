@@ -23,5 +23,3 @@ SELECT CASE WHEN length(description) > 50
  -- limit to descriptions that start with the word I
  WHERE description LIKE 'I %'
  ORDER BY description;
-
-
